@@ -23,3 +23,9 @@ p{
 	margin: 0;
     padding: 0;
 }
+img {
+	width: 1000px;
+	border: 30px outset #000000;
+	margin: auto;
+	padding: 10%;
+}
